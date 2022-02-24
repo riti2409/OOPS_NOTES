@@ -10,4 +10,4 @@ Notes of OOPS (in c++)
 
 - PDF(of notes): https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh/view?usp=sharing
 
-
+- OOPS Interview Questions: https://www.interviewbit.com/oops-interview-questions/
